@@ -5,14 +5,7 @@
 Este é um componente LWC (Lightning Web Component) que exibe uma imagem de Pokémon que pode ser trocada com um clique.
 
 ## Instalação
-Este componente pode ser instalado em um ambiente Salesforce seguindo os passos abaixo:
-
-- Clone este repositório para a sua máquina local.
-- Acesse a sua organização Salesforce.
-- Navegue até a seção "Setup".
-- Selecione a opção "Deploy" no menu lateral.
-- Na página de "Deploy", arraste o arquivo ZIP do componente (que pode ser encontrado na pasta dist do repositório clonado) para a seção "Manual Uploads".
-- Clique no botão "Deploy".
+Este componente pode ser usado em um ambiente Salesforce.
 
 ## Utilização
 Para utilizar este componente em uma página Lightning do Salesforce, siga os passos abaixo:
