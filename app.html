@@ -1,6 +1,10 @@
 <template>
 	<div class="container" onclick={changeImage}>
+		
+		<!-- Define um título para a página, utilizando as classes CSS do Salesforce Design System para aumentar o tamanho e o peso da fonte -->
 		<h1 class="slds-text-heading_medium slds-text-weight_bold">{currentTitle}</h1>
+		
+		<!-- Exibe a imagem atual do Pokémon, que será trocada quando o usuário clicar na imagem -->
 		<img src={currentImage} alt="Pokemon" />
 	</div>
 </template>
